@@ -20,7 +20,7 @@
     <string name="quiz_question">请选择正确的翻译：</string>
     <string name="quiz_correct">太棒了！答对了！</string>
     <string name="quiz_wrong">答错了，正确答案是：%s</string>
-    <string name="quiz_score">得分：%d / %d</string>
+    <string name="quiz_score">得分：%d / %d</string
     <string name="btn_submit">提交答案</string>
     <string name="btn_next_question">下一题</string>
     
