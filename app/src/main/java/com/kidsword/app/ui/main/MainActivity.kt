@@ -14,7 +14,7 @@ import com.kidsword.app.ui.study.StudyActivity
 import com.kidsword.app.ui.wrong.WrongBookActivity
 import com.kidsword.app.ui.challenge.ChallengeActivity
 import com.kidsword.app.ui.import.ImportActivity
-import com.kidsword.app.ui.challenge.ChallengeActivity
+import com.kidsword.app.util.InitialDataProvider
 import com.kidsword.app.util.InitialDataProvider
 import com.kidsword.app.util.PreferencesHelper
 import kotlinx.coroutines.launch
