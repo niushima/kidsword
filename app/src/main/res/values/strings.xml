@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">小学生背单词</string>
+    
+    <!-- Main Menu -->
+    <string name="menu_study">学习单词</string>
+    <string name="menu_quiz">开始测验</string>
+    <string name="menu_progress">学习进度</string>
+    <string name="menu_wrong_book">错题本</string>
+    <string name="menu_challenge">闯关模式</string>
+    
+    <!-- Study -->
+    <string name="btn_next">下一个</string>
+    <string name="btn_previous">上一个</string>
+    <string name="btn_speak">点击发音</string>
+    <string name="btn_mark_known">我认识了</string>
+    <string name="btn_mark_unknown">还不认识</string>
+    
+    <!-- Quiz -->
+    <string name="quiz_question">请选择正确的翻译：</string>
+    <string name="quiz_correct">太棒了！答对了！</string>
+    <string name="quiz_wrong">答错了，正确答案是：%s</string>
+    <string name="quiz_score">得分：%d / %d</string>
+    <string name="btn_submit">提交答案</string>
+    <string name="btn_next_question">下一题</string>
+    
+    <!-- Progress -->
+    <string name="progress_title">学习进度</string>
+    <string name="progress_learned">已学习：%d 个单词</string>
+    <string name="progress_mastered">已掌握：%d 个单词</string>
+    <string name="progress_total">总单词数：%d</string>
+    <string name="progress_rate">掌握率：%.1f%%</string>
+    
+    <!-- Challenge -->
+    <string name="challenge_title">闯关模式</string>
+    <string name="challenge_level">第 %d 关</string>
+    <string name="challenge_passed">恭喜过关！</string>
+    <string name="challenge_failed">挑战失败，再试一次！</string>
+    <string name="challenge_complete">全部通关！你是单词小达人！</string>
+    
+    <!-- Wrong Book -->
+    <string name="wrong_book_title">错题本</string>
+    <string name="wrong_book_empty">暂无错题记录，继续加油！</string>
+    <string name="wrong_count">错误次数：%d</string>
+    <string name="btn_review">复习错题</string>
+    
+    <!-- Common -->
+    <string name="btn_back">返回</string>
+    <string name="btn_start">开始</string>
+    <string name="btn_retry">重试</string>
+</resources>

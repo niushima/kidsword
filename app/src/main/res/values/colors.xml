@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors - Kid-friendly bright colors -->
+    <color name="primary">#FF6B9D</color>
+    <color name="primary_dark">#E85A8A</color>
+    <color name="primary_light">#FFB6C8</color>
+    
+    <!-- Secondary Colors -->
+    <color name="secondary">#4ECDC4</color>
+    <color name="secondary_dark">#3DB9B0</color>
+    
+    <!-- Accent Colors -->
+    <color name="accent_yellow">#FFE66D</color>
+    <color name="accent_green">#7ED957</color>
+    <color name="accent_orange">#FFB347</color>
+    <color name="accent_blue">#74B9FF</color>
+    
+    <!-- Background Colors -->
+    <color name="background">#FFF9F0</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#2D3436</color>
+    <color name="text_secondary">#636E72</color>
+    <color name="text_hint">#B2BEC3</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#00B894</color>
+    <color name="error">#FF6B6B</color>
+    <color name="warning">#FDCB6E</color>
+    
+    <!-- Quiz Colors -->
+    <color name="option_default">#E8F5E9</color>
+    <color name="option_selected">#C8E6C9</color>
+    <color name="option_correct">#4CAF50</color>
+    <color name="option_wrong">#F44336</color>
+    
+    <!-- Progress Colors -->
+    <color name="progress_learned">#74B9FF</color>
+    <color name="progress_mastered">#7ED957</color>
+</resources>
